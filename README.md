@@ -93,4 +93,4 @@ The goal is to build a reliable College Information Chatbot step by step while l
 
 ## Author
 
-Developed as a Python learning project.
+Abhishek Rauniyar
